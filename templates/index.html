@@ -1,0 +1,43 @@
+<html>
+    <head>
+
+    </head>
+    <style>
+        table,tr,td{
+            border: 2px solid black;
+        }
+    </style>
+    <script>
+        
+    </script>    
+
+    <body>
+        <br><br>
+        <table style="height:20%;border-collapse: collapse;overflow:inherit ;">
+            <thead>
+                <tr>
+                    <th>States</th>
+                    {%for i in states%}
+                    <td>{{i["State"]}}</td>
+                    {%endfor%}
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <th>Prices</th>
+                    {%for i in states%}
+                    
+                    <td>{{i["Price"]}}</td>
+                    {%endfor%}
+                </tr>
+            </tbody>
+            <!-- <tr>
+                {%for i in states%}
+                
+                <td>{{i["Price"]}}</td>
+                {%endfor%}
+            </tr> -->
+          </table>
+    </body>
+</html>
