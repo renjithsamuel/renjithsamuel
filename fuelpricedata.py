@@ -9,6 +9,7 @@ def get_content():
     soup = BeautifulSoup(response, "html.parser")
     table = soup.find_all("tr")[0:]
     states = {}
+
     
     for row in table:
         row = list(filter(lambda x: x != "\n", row))
