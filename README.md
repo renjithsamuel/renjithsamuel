@@ -7,9 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/renjithsamuel](https://github.com/renjithsamuel)
 
+- 🌐 My website  [MyPortfolio](https://renjithsamuel.web.app/)
+
 - 📫 How to reach me **ranjithsamuelking@gmail.com**
 
-- 🌐 My website  [rskedits36.web.app](https://rskedits36.web.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
