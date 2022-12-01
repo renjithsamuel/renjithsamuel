@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/renjithsamuel](https://github.com/renjithsamuel)
 
-- 🌐 My website  [MyPortfolio](https://renjithsamuel.web.app/)
+- 🌐 My website  [Renjith samuel](https://renjithsamuel.web.app/)
 
 - 📫 How to reach me **ranjithsamuelking@gmail.com**
 
