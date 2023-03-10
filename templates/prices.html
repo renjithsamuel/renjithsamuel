@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>petrol prices</title>
+    <title>Petrol Prices</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
@@ -15,8 +15,11 @@
 <style>
   /* .search-table-outter { overflow-x: scroll; }
 th, td { min-width: 200px; } */
-
-
+table, th, td {
+  border: 2px solid black;
+  width: 50%;
+  text-align: center;
+}
 .wrapper { overflow-x: auto; }
 .wrapper table { white-space: nowrap; }
 </style>
@@ -24,7 +27,7 @@ th, td { min-width: 200px; } */
     <!-- topnav -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">petrol prices india</a>
+          <a class="navbar-brand" href="#">Petrol Prices in India</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -32,10 +35,8 @@ th, td { min-width: 200px; } */
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="prices.html">Pricing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about us.html">about us</a>
               </li>
               
             </ul>
@@ -82,44 +83,47 @@ th, td { min-width: 200px; } */
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-      <br>
-      <br>
-
-      <!-- table -->
-      <p style = "font-size: 20px;border: solid 2px black; border-radius: 5px; padding: 10px;  ">DATE : 04/03/2022</p>
-      
-      <br>
-      <div class="wrapper">
-      <!-- <div class="search-table-outter"> -->
-      <table class="table">
+      <center>
+        <br><br><br>
+        <h2>
+        This is the today price rate of Petrol
+        <br><br><br>
+        Date : {{date}}  
+        &emsp;&emsp;&emsp;&emsp;
+        Time : {{time}}
+      </h2>
+      <table>
         <thead>
-          <tr>
-              <th>States</th>
-              <th>Prices</th>
-              
-          </tr>
-      </thead>
-      <tbody>
+
+            <tr>
+                <th>States</th>
                 
-        <tr>
-          <td>{%for i in states%}              
-              {{i["State"],i["Price"]}}
-              {%endfor%}</td>
+                <th>Prices</th>
+        
+            </tr>
+        </thead>
+        <tbody>
+          <br><br><br>
+            {%for i in states%}
+            <tr>
 
+                
+                <td>{{i["State"]}}</td>
+                <td>{{i["Price"]}}</td>
+                
+            </tr>
+            {%endfor%}
+        </tbody>
+        <!-- <tr>
+            {%for i in states%}
             
-            <!-- {%for i in states%}            
             <td>{{i["Price"]}}</td>
-            {%endfor%} -->
-        </tr>
-    </tbody>
+            {%endfor%}
+        </tr> -->
       </table>
+      <br><br><br>
+    </center>
     </div>
-    
-
-
-
-
-
-
+  
 </body>
 </html>
