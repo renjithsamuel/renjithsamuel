@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/renjithsamuel?tab=repositories)
-
 - 📫 How to reach me **ranjithsamuelking@gmail.com**
 
 - 📄 Know about me [here](https://renjithsamuel.onrender.com)
