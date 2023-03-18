@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [renjithsamuel](https://github.com/renjithsamuel)
+- 👨‍💻 All of my projects are available [here](https://github.com/renjithsamuel)
 
 - 📫 How to reach me **ranjithsamuelking@gmail.com**
 
-- 📄 Know about me [Renjith samuel](https://renjithsamuel.onrender.com)
+- 📄 Know about me [here](https://renjithsamuel.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
