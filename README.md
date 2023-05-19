@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Renjith samuel</h1>
-<h3 align="center">A FullStack developer</h3>
+<h3 align="center">Web developer</h3>
 
 - 🔭 I’m currently working on [Leave Approval App](https://github.com/renjithsamuel/LeaveApprovalApp)
 
