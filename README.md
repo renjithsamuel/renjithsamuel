@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Renjith samuel</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [Leave Approval App](https://github.com/renjithsamuel/LeaveApprovalApp)
+- 🔭 I’m currently working on [Task Reporter App](https://github.com/renjithsamuel/TaskReporter)
 
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **ranjithsamuelking@gmail.com**
 
-- 📄 Know more about me [here](https://renjithsamuel.onrender.com)
+- 📄 Know more about me [here!](https://renjithsamuel.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
