@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NextJS, Typescript, GoLang, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://renjithsamuel.onrender.com](https://renjithsamuel.onrender.com)
+- 👨‍💻 All of my projects are available [here](https://renjithsamuel.onrender.com)
 
-- 📄 Know about my experiences [https://renjithsamuel.onrender.com/static/media/Renjiths%20Resume.db658a27b7dccce25823.pdf](https://renjithsamuel.onrender.com/static/media/Renjiths%20Resume.db658a27b7dccce25823.pdf)
+- 📄 Know about my experiences [here](https://renjithsamuel.onrender.com/static/media/Renjiths%20Resume.db658a27b7dccce25823.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
