@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Integrated Library Management](https://github.com/renjithsamuel/ILM)
 
-- 🌱 I’m currently learning **NextJS, Typescript, GoLang, Microservices**
+- 🌱 I’m currently learning **NextJS, Typescript, GoLang, Postgresql, Microservices**
 
 - 👨‍💻 All of my projects are available [here](https://renjithsamuel.onrender.com)
 
